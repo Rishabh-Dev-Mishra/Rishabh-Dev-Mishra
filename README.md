@@ -10,7 +10,6 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **Web Frameworks & Cloud Technologies**
 - 💡 Exploring **AI & Backend Technologies**
-- ⚡ Fun fact: I love **challenges** and solving complex problems!
 - 📫 How to reach me: **rishabhdevmishra388@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1Xnzce_2SzAzcOzjf2UsWx89pW2qDEFc0/view?usp=sharing)  
 
@@ -52,19 +51,23 @@
 
 ---
 
-## 🚀 My Projects  
-### 🌟 **Featured Projects**
-- **📌 [Code Reviewer](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)**
-  - 🛠️ Tech Stack: **Express, Google Generative AI, Node.js**
-  - 🔍 Review and analyze code with AI-powered insights!  
-- **📌 [Portfolio Website](https://github.com/Rishabh-Dev-Mishra/portfolio)**
-  - 🚀 Built using **Next.js & Tailwind CSS**  
-  - 💡 Showcasing my projects and skills  
-- **📌 [Cloud-Based E-Commerce App](https://github.com/Rishabh-Dev-Mishra/cloud-ecommerce)**
-  - ☁️ Hosted on **AWS with a scalable backend**  
-  - 🛒 Built with **React, Node.js, MongoDB**  
+🚀 My Projects
+🌟 Featured Projects
+📌 CodeSync
 
----
+🔄 Real-time code collaboration tool
+🛠️ Built with React, Node.js, WebSockets
+🌐 Enables multiple users to code together in real-time!
+📌 The Bag Spot
+
+👜 E-Commerce platform for bags
+🚀 Developed using Next.js, Tailwind CSS, MongoDB
+💳 Secure payments, smooth UI, and user authentication
+📌 Code Reviewer
+
+🤖 AI-powered code analysis tool
+🛠️ Built with Express, Google Generative AI, Node.js
+🔍 Get instant insights and improvements for your code
 
 ## 🎯 Recent Activity  
 <!--START_SECTION:activity-->
@@ -74,9 +77,7 @@
 <!--END_SECTION:activity-->
 
 ---
-
-## ⚡ Fun Fact  
-💻 I love debugging more than coding sometimes! 😆  
+ 
 
 ---
 
