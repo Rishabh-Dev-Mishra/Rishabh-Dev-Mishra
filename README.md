@@ -56,16 +56,21 @@
 📌 CodeSync
 
 🔄 Real-time code collaboration tool
+
 🛠️ Built with React, Node.js, WebSockets
 🌐 Enables multiple users to code together in real-time!
 📌 The Bag Spot
 
 👜 E-Commerce platform for bags
+
+
 🚀 Developed using Next.js, Tailwind CSS, MongoDB
 💳 Secure payments, smooth UI, and user authentication
 📌 Code Reviewer
 
 🤖 AI-powered code analysis tool
+
+
 🛠️ Built with Express, Google Generative AI, Node.js
 🔍 Get instant insights and improvements for your code
 
