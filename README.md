@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FD6F00&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Cloud+Computing+Enthusiast;Passionate+Problem+Solver;Lifelong+Learner+%F0%9F%93%96" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh-Dev-Mishra&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -51,28 +55,42 @@
 
 ---
 
-🚀 My Projects
-🌟 Featured Projects
-📌 CodeSync
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-Dev-Mishra&theme=radical&no-bg=true&no-frame=true&margin-w=5" />
+</p>
 
-🔄 Real-time code collaboration tool
+---
 
-🛠️ Built with React, Node.js, WebSockets
-🌐 Enables multiple users to code together in real-time!
-📌 The Bag Spot
+## 🌟 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rishabh-Dev-Mishra&theme=react-dark" />
+</p>
 
-👜 E-Commerce platform for bags
+---
 
+## 🚀 My Projects  
 
-🚀 Developed using Next.js, Tailwind CSS, MongoDB
-💳 Secure payments, smooth UI, and user authentication
-📌 Code Reviewer
+### 📌 [CodeSync](https://github.com/Rishabh-Dev-Mishra/CodeSync)
+🔄 **Real-time code collaboration tool**  
+🛠️ Built with **React, Node.js, WebSockets**  
+🌐 Enables multiple users to code together in real-time!  
 
-🤖 AI-powered code analysis tool
+---
 
+### 📌 [The Bag Spot](https://github.com/Rishabh-Dev-Mishra/The-Bag-Spot)
+👜 **E-Commerce platform for bags**  
+🚀 Developed using **Next.js, Tailwind CSS, MongoDB**  
+💳 Secure payments, smooth UI, and user authentication  
 
-🛠️ Built with Express, Google Generative AI, Node.js
-🔍 Get instant insights and improvements for your code
+---
+
+### 📌 [Code Reviewer](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)
+🤖 **AI-powered code analysis tool**  
+🛠️ Built with **Express, Google Generative AI, Node.js**  
+🔍 Get instant insights and improvements for your code  
+
+---
 
 ## 🎯 Recent Activity  
 <!--START_SECTION:activity-->
@@ -80,9 +98,6 @@
 2. 🚀 Pushed commits to **Next.js Portfolio**
 3. 🌟 Starred **Awesome DevOps Resources**  
 <!--END_SECTION:activity-->
-
----
- 
 
 ---
 
@@ -93,4 +108,4 @@
 ---
 
 ### 🚀 Keep Coding & Keep Innovating! 🚀  
-🔗 **[Visit My GitHub](https://github.com/Rishabh-Dev-Mishra)**
+🔗 **[Visit My GitHub](https://github.com/Rishabh-Dev-Mishra)**  
