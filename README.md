@@ -12,39 +12,57 @@
 ---
 
 ## 🚀 About Me
+
 - 🌱 I’m currently learning **Web Frameworks & Cloud Technologies**
-- 💡 Exploring **AI & Backend Technologies**
-- 📫 How to reach me: **rishabhdevmishra388@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1Xnzce_2SzAzcOzjf2UsWx89pW2qDEFc0/view?usp=sharing)  
+- 💡 Exploring **AI & Backend Development**
+- 💬 I love solving algorithmic problems and contributing to tech communities
+- 📫 Reach me at: **rishabhdevmishra388@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1Xnzce_2SzAzcOzjf2UsWx89pW2qDEFc0/view?usp=sharing)
 
 ---
 
-## 🔗 Connect With Me  
+## 🌐 Competitive Programming Profiles
+
 <p align="left">
-<a href="https://linkedin.com/in/rishabhdevmishra" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/r_d_mishra" target="blank">
-  <img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="https://www.leetcode.com/rishabh_dev_mishra" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/rishabhdevvuv0" target="blank">
-  <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
+  <a href="https://codeforces.com/profile/Rishabh_Dev_Mishra" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/r_d_mishra" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/rishabh_dev_mishra" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/rishabhdevvuv0" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rishabhdevmishra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishabhdevmishra388@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,cpp,docker,figma,git,java,js,linux,mongodb,mysql,nextjs,nodejs,python,react,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Dev-Mishra&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-Dev-Mishra&theme=radical" height="165">
@@ -55,48 +73,47 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-Dev-Mishra&theme=radical&no-bg=true&no-frame=true&margin-w=5" />
 </p>
 
 ---
 
-## 🌟 GitHub Activity Graph  
+## 🌟 GitHub Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-Dev-Mishra&theme=react-dark" />
 </p>
 
-
 ---
 
-## 🚀 My Projects  
+## 🚀 My Projects
 
 ### 📌 [CodeSync](https://github.com/Rishabh-Dev-Mishra/CodeSync)
-🔄 **Real-time code collaboration tool**  
-🛠️ Built with **React, Node.js, WebSockets**  
-🌐 Enables multiple users to code together in real-time!  
+🔄 Real-time code collaboration tool  
+🛠️ Tech: React, Node.js, WebSockets  
 
 ---
 
 ### 📌 [The Bag Spot](https://github.com/Rishabh-Dev-Mishra/The-Bag-Spot)
-👜 **E-Commerce platform for bags**  
-🚀 Developed using **Next.js, Tailwind CSS, MongoDB**  
-💳 Secure payments, smooth UI, and user authentication  
+👜 E-commerce platform for bags  
+💳 Next.js, Tailwind CSS, MongoDB  
 
 ---
 
 ### 📌 [Code Reviewer](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)
-🤖 **AI-powered code analysis tool**  
-🛠️ Built with **Express, Google Generative AI, Node.js**  
-🔍 Get instant insights and improvements for your code  
+🤖 AI-powered code analysis  
+🧠 Powered by Google Generative AI  
 
 ---
 
-## 🎯 Recent Activity  
+## 🎯 Recent Activity
+
 <!--START_SECTION:activity-->
-1. 📝 Published **Code Reviewer App** - [View on GitHub](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)
-2. 🚀 Pushed commits to **Next.js Portfolio**
+1. 📝 Published **Code Reviewer App** - [View on GitHub](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)  
+2. 🚀 Pushed commits to **Next.js Portfolio**  
 3. 🌟 Starred **Awesome DevOps Resources**  
 <!--END_SECTION:activity-->
 
@@ -108,5 +125,7 @@
 
 ---
 
-### 🚀 Keep Coding & Keep Innovating! 🚀  
-🔗 **[Visit My GitHub](https://github.com/Rishabh-Dev-Mishra)**  
+<h3 align="center">🚀 Keep Coding & Keep Innovating!</h3>
+<p align="center">
+  🔗 <a href="https://github.com/Rishabh-Dev-Mishra">Visit My GitHub</a>
+</p>
