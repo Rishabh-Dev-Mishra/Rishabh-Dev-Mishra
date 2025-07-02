@@ -21,9 +21,12 @@
 
 ---
 
-## 🌐 Competitive Programming Profiles
+## 🌐 Profiles
 
 <p align="left">
+  <a href="https://linkedin.com/in/rishabhdevmishra" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://codeforces.com/profile/Rishabh_Dev_Mishra" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
