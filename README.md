@@ -97,7 +97,7 @@
 
 ### 📌 [The Bag Spot](https://github.com/Rishabh-Dev-Mishra/The-Bag-Spot)
 👜 E-commerce platform for bags  
-💳 Next.js, Tailwind CSS, MongoDB  
+💳 EJS, Tailwind CSS, MongoDB  
 
 ---
 
