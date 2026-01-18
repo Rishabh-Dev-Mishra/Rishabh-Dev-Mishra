@@ -1,29 +1,52 @@
-<h1 align="center">Hi 👋, I'm Rishabh Dev Mishra</h1>
-<h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 🔥 Innovator in Code</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F5426C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Computing+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://github.com/Rishabh-Dev-Mishra">
+      <img src="https://komarev.com/ghpvc/?username=Rishabh-Dev-Mishra&label=Profile%20Views&color=aa2e58&style=flat" alt="Profile Views" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FD6F00&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Cloud+Computing+Enthusiast;Passionate+Problem+Solver;Lifelong+Learner+%F0%9F%93%96" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh-Dev-Mishra&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
+  <a href="https://linkedin.com/in/rishabhdevmishra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishabhdevmishra388@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1Xnzce_2SzAzcOzjf2UsWx89pW2qDEFc0/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Web Frameworks & Cloud Technologies**
-- 💡 Exploring **AI & Backend Development**
-- 💬 I love solving algorithmic problems and contributing to tech communities
-- 📫 Reach me at: **rishabhdevmishra388@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1Xnzce_2SzAzcOzjf2UsWx89pW2qDEFc0/view?usp=sharing)
+I am a passionate **Full-Stack Developer** and **Problem Solver** with a keen interest in building scalable web applications and exploring Cloud Technologies. I enjoy bridging the gap between complex algorithms and real-world applications.
+
+- 🔭 I’m currently working on **Full Stack Web Development & Microservices**.
+- 🌱 I’m currently learning **Docker, AWS, and System Design**.
+- 💡 I specialize in **Data Structures & Algorithms** and backend logic.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
 
 ---
 
-## 🌐 Profiles
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" height="25"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="25"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="25"/> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,figma" height="25"/> |
+
+---
+
+### 🧩 Problem Solving Profiles
+
+<div align="left">
   <a href="https://codeforces.com/profile/Rishabh_Dev_Mishra" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/r_d_mishra" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
@@ -34,96 +57,43 @@
   <a href="https://auth.geeksforgeeks.org/user/rishabhdevvuv0" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-## 🔗 Connect With Me
+### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/rishabhdevmishra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rishabhdevmishra388@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[CodeSync](https://github.com/Rishabh-Dev-Mishra/CodeSync)** | A real-time code collaboration tool allowing multiple users to edit code simultaneously. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Socket](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white) |
+| **[The Bag Spot](https://github.com/Rishabh-Dev-Mishra/The-Bag-Spot)** | A full-featured E-commerce platform dedicated to bags with admin dashboard and payments. | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black) |
+| **[Code Reviewer](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)** | An AI-powered code analysis tool that suggests optimizations and fixes bugs using Generative AI. | ![Google Gemini](https://img.shields.io/badge/Google%20AI-4285F4?style=flat&logo=google&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
 
 ---
 
-## 🛠️ Languages & Tools
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,cpp,docker,figma,git,java,js,linux,mongodb,mysql,nextjs,nodejs,python,react,vscode" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Dev-Mishra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-Dev-Mishra&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="streak graph" />
+</div>
 
----
+<br>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Dev-Mishra&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-Dev-Mishra&theme=radical" height="165">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh-Dev-Mishra&show_icons=true&layout=compact&theme=radical">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh-Dev-Mishra&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-Dev-Mishra&theme=radical&no-bg=true&no-frame=true&margin-w=5" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-Dev-Mishra&theme=radical&no-bg=true&no-frame=true&margin-w=15&row=1" width="800" />
+</div>
 
 ---
 
-## 🌟 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-Dev-Mishra&theme=react-dark" />
-</p>
-
----
-
-## 🚀 My Projects
-
-### 📌 [CodeSync](https://github.com/Rishabh-Dev-Mishra/CodeSync)
-🔄 Real-time code collaboration tool  
-🛠️ Tech: React, Node.js, WebSockets  
-
----
-
-### 📌 [The Bag Spot](https://github.com/Rishabh-Dev-Mishra/The-Bag-Spot)
-👜 E-commerce platform for bags  
-💳 EJS, Tailwind CSS, MongoDB  
-
----
-
-### 📌 [Code Reviewer](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)
-🤖 AI-powered code analysis  
-🧠 Powered by Google Generative AI  
-
----
-
-## 🎯 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 📝 Published **Code Reviewer App** - [View on GitHub](https://github.com/Rishabh-Dev-Mishra/Code-Reviewer)  
-2. 🚀 Pushed commits to **Next.js Portfolio**  
-3. 🌟 Starred **Awesome DevOps Resources**  
-<!--END_SECTION:activity-->
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/Ashutosh00710/master/gifs/Developer.gif" width="100">
-</p>
-
----
-
-<h3 align="center">🚀 Keep Coding & Keep Innovating!</h3>
-<p align="center">
-  🔗 <a href="https://github.com/Rishabh-Dev-Mishra">Visit My GitHub</a>
-</p>
+<div align="center">
+  <br>
+  <i>Let's connect and build something amazing together!</i>
+  <br><br>
+</div>
